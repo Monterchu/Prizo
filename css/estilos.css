@@ -126,7 +126,7 @@ article
 {
 /*	background: #010522;*/
 	margin-top: 80px;
-	margin-bottom: 20px;
+	margin-bottom: 80px;
 	padding: 100px;
 }
 .div_footer
@@ -141,6 +141,11 @@ article
 .btn
 {
 	margin: 20px;
+}
+div a img
+{
+	margin-right: 40px;
+	margin-top: 20px;
 }
 @media (min-width: 500px){
 	.img
