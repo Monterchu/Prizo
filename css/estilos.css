@@ -66,7 +66,11 @@
 	margin-right: 10px;
 }
 
-
+.navbar-default .navbar-nav>li>a:hover
+{
+	background: #6091C8;
+	color: white;
+}
 
 
 .navbar-default {
@@ -127,7 +131,7 @@ article
 /*	background: #010522;*/
 	margin-top: 80px;
 	margin-bottom: 80px;
-	padding: 100px;
+	padding: 50px;
 }
 .div_footer
 {
@@ -146,6 +150,20 @@ div a img
 {
 	margin-right: 40px;
 	margin-top: 20px;
+}
+.btn-primary {
+   color: #090725; 
+  background-color: rgba(255, 255, 255, 0);
+  border-color: #2e6da4;
+}
+.carousel-caption
+{
+	margin-bottom: 20px;
+}
+.Soluciones
+{
+	margin-top: 80px;
+	margin-bottom: 80px;
 }
 @media (min-width: 500px){
 	.img
